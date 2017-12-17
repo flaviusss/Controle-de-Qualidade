@@ -1,3 +1,13 @@
-<?php>
+<?php
 echo = "That's it!";
-</php>
+?>
+<html>
+	<head>
+		<title></title>
+		<script></script>
+		<style></style>
+	</head>
+	<body>
+
+	</body>
+</html>
